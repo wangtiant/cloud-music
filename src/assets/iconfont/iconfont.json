@@ -1,0 +1,16 @@
+{
+  "id": "1595057",
+  "name": "cloud-music",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "React Hooks 与 Immutable 数据流实战  项目图标素材",
+  "glyphs": [
+    {
+      "icon_id": "11428243",
+      "name": "云音乐-01",
+      "font_class": "yunyinle-",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    }
+  ]
+}
